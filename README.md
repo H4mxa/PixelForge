@@ -23,6 +23,6 @@
 ## Build & Run
 
 ```bash
-gcc -o pixelforge main.c bmplib.c -lm
-./pixelforge
+make
+./build/pixelforge
 ```

@@ -1,0 +1,12 @@
+# Build
+pixelforge
+pixelforge.exe
+build/
+
+# Temp
+/tmp/
+*.bmp
+!images/*.bmp
+
+# IDE
+.vscode/
